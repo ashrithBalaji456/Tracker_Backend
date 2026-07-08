@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 📊 Tracker --- Team Task Manager
 
 ### Secure Full-Stack Task Tracking, Team Collaboration & Productivity Dashboard
